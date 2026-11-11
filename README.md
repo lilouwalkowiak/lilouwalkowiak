@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🇬🇧 <b>English</b> · 🇫🇷 <a href="README.fr.md">Français</a>
+  🇬🇧 <b>English</b> · 🇫🇷 <a href="https://github.com/lilouwalkowiak/lilouwalkowiak/blob/main/README.fr.md">Français</a>
 </p>
 
 <p align="center">✦ · ✦ · ✦</p>
