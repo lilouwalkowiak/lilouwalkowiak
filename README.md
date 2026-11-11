@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🇬🇧 <b>English</b> · 🇫🇷 <a href="https://github.com/lilouwalkowiak/lilouwalkowiak/blob/main/READMEFR.md">Français</a>
+  🇬🇧 <b>English</b> · 🇫🇷 <a href="https://github.com/lilouwalkowiak/lilouwalkowiak/blob/main/README.fr.md">Français</a>
 </p>
 
 <p align="center">✦ · ✦ · ✦</p>
@@ -17,7 +17,7 @@
 
 - 🎓 First-year **Bachelor in Computer Science** at **Coda**
 - 📍 Based in **Dijon, France**
-- 🎨 I want a career that matters: one that genuinely helps people and contributes to a better world. My artistic sensibility shapes the way I work: to me, a tool designed with care is a tool people actually enjoy using
+- 🎨 I want a career that matters: one that genuinely helps people and contributes to a better world. I also enjoy paying attention to colour harmony and style, and I try to bring that touch to my projects
 - 🤝 Looking for a **work-study position (alternance)** starting **September 2027**
   <br/>↳ Schedule: **3 weeks in the company / 1 week at school**
 

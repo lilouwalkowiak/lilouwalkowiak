@@ -17,7 +17,7 @@
 
 - 🎓 Étudiante en **Bachelor 1 informatique** à **Coda**
 - 📍 Basée à **Dijon**
-- 🎨 Je veux exercer un métier utile, qui aide concrètement les gens et contribue à un monde meilleur. Ma sensibilité artistique guide ma façon de travailler : pour moi, un outil pensé avec soin, c'est un outil que les gens ont vraiment envie d'utiliser
+- 🎨 Je veux exercer un métier utile, qui aide concrètement les gens et contribue à un monde meilleur. J'aime aussi faire attention à l'harmonie des couleurs et au style, et j'essaie d'apporter cette touche à mes projets
 - 🤝 Je recherche une **alternance** à partir de **septembre 2027**
   <br/>↳ Rythme : **3 semaines en entreprise / 1 semaine en cours**
 
